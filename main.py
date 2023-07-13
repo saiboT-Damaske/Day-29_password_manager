@@ -83,7 +83,7 @@ entry_website.focus()
 
 entry_mail = Entry(width=35)
 entry_mail.grid(column=1, row=2, columnspan=2)
-entry_mail.insert(0, "tobifakemail@gmail.com")
+entry_mail.insert(0, "@gmail.com")
 
 entry_pw = Entry(width=21)
 entry_pw.grid(column=1, row=3)
